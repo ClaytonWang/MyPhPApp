@@ -1,0 +1,16 @@
+{
+    "remotePath": "/usr/local/nginx/wwwroot/php/",
+    "host": "10.212.38.61",
+    "username": "root",
+    "password": "Admin@123",
+    "port": 22,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git"
+    ]
+}

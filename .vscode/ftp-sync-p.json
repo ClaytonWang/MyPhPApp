@@ -1,0 +1,16 @@
+{
+    "remotePath": "/WEB/",
+    "host": "vhost159.cloudvhost.cn",
+    "username": "webmaster@HA275076",
+    "password": "edjxcqb9iEbLqJNt",
+    "port": 21,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": true,
+    "privateKeyPath": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git"
+    ]
+}
