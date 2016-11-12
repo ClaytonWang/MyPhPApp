@@ -13,9 +13,12 @@ return [
     // 数据库类型
     'type'           => 'mysql',
     // 服务器地址
-    'hostname'       => '127.0.0.1',
+    'hostname'       => '10.0.0.8',
+    //'hostname'       => '10.212.38.61',
+    //'hostname'       => 'x0z1yjr.2278lan.dnstoo.com',
     // 数据库名
     'database'       => 'MyAppDB',
+    //'database'       => 'dw3cmysql',
     // 用户名
     'username'       => 'root',
     // 密码

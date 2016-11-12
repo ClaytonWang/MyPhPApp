@@ -1,6 +1,6 @@
 {
     "remotePath": "/usr/local/nginx/wwwroot/php/",
-    "host": "10.0.0.8",
+    "host": "10.212.38.61",
     "username": "root",
     "password": "Admin@123",
     "port": 22,
